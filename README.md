@@ -1,5 +1,19 @@
 # DiabeticVoice AI
 
+## Screenshots
+
+### Backend Architecture
+
+![Backend Architecture](backend/images/backend.png)
+
+### Diabetic UI
+
+![Database UI](backend/images/db-ui.png)
+
+### QueryAI
+
+![QueryAI](backend/images/queryai.png)
+
 A voice-ready lifestyle guide for people who want steadier glucose and a healthier liver. It suggests what to eat in the morning, afternoon, and at dinner, and explains insulin spikes, protein, carbs, fiber, and fatty liver in plain language.
 
 This is education beside a clinician. It does not diagnose, dose insulin, or tell anyone to stop medicine. Type 2 diabetes can improve for some people with sustained habits. Type 1 diabetes is not reversed by food.
