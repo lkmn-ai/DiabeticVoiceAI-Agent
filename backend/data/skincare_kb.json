@@ -1,0 +1,802 @@
+[
+  {
+    "id": "sk_001",
+    "question": "What is a good routine for oily skin?",
+    "answer": "For oily skin, a good routine includes a gentle foaming cleanser morning and night to control excess sebum. Use a lightweight, oil-free moisturizer, and always apply a broad-spectrum SPF 30+ sunscreen in the morning. A niacinamide serum can help regulate oil production. At night, you may use a BHA like salicylic acid to keep pores clear.",
+    "category": "skin_types",
+    "subcategory": "oily",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_002",
+    "question": "How do I build a skincare routine for dry skin?",
+    "answer": "For dry skin, focus on hydration and barrier repair. Use a cream or oil-based cleanser that does not strip moisture. Apply hyaluronic acid serum on damp skin, follow with a rich moisturizer containing ceramides or shea butter, and use a hydrating sunscreen in the morning. At night, consider a nourishing facial oil or sleeping mask to lock in moisture overnight.",
+    "category": "skin_types",
+    "subcategory": "dry",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_003",
+    "question": "What routine works for combination skin?",
+    "answer": "For combination skin, use a gentle balanced cleanser. Apply lighter moisturizer on the oily T-zone and a richer formula on dry cheeks. A niacinamide serum works well for balancing oil in the T-zone without over-drying other areas. Always use sunscreen. You can spot-treat different areas with targeted products as needed.",
+    "category": "skin_types",
+    "subcategory": "combination",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_004",
+    "question": "What skincare routine is best for sensitive skin?",
+    "answer": "For sensitive skin, keep your routine minimal and gentle. Use a fragrance-free, soap-free cleanser. Choose hypoallergenic, non-comedogenic moisturizers with soothing ingredients like centella asiatica or aloe vera. Avoid alcohol, synthetic fragrances, and harsh exfoliants. Always patch test new products. Use a mineral-based sunscreen with zinc oxide or titanium dioxide.",
+    "category": "skin_types",
+    "subcategory": "sensitive",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_005",
+    "question": "What is the best skincare routine for normal skin?",
+    "answer": "Normal skin is balanced and relatively easy to maintain. Use a gentle cleanser, a lightweight moisturizer, and a daily broad-spectrum SPF 30+ sunscreen. You can add optional serums like vitamin C for antioxidant protection or hyaluronic acid for extra hydration. A gentle weekly exfoliant can help maintain smooth texture.",
+    "category": "skin_types",
+    "subcategory": "normal",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_006",
+    "question": "What does niacinamide do for your skin?",
+    "answer": "Niacinamide, also known as vitamin B3, is a versatile ingredient that helps regulate sebum production, minimize the appearance of pores, brighten uneven skin tone, and reduce hyperpigmentation. It also strengthens the skin barrier, reduces redness and irritation, and is generally well-tolerated by most skin types including sensitive skin.",
+    "category": "ingredients",
+    "subcategory": "niacinamide",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_007",
+    "question": "What does salicylic acid do?",
+    "answer": "Salicylic acid is a beta-hydroxy acid (BHA) that penetrates into pores to dissolve excess sebum and dead skin cells. It is particularly effective for oily and acne-prone skin, helping to clear blackheads, whiteheads, and reduce acne breakouts. It also has anti-inflammatory properties. Common concentrations are 0.5% to 2% in over-the-counter products.",
+    "category": "ingredients",
+    "subcategory": "salicylic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_008",
+    "question": "What does hyaluronic acid do for skin?",
+    "answer": "Hyaluronic acid is a powerful humectant that can hold up to 1000 times its weight in water. It draws moisture from the environment into the skin, helping to hydrate and plump the skin. It works best when applied to damp skin. It is suitable for all skin types and is generally very well tolerated.",
+    "category": "ingredients",
+    "subcategory": "hyaluronic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_009",
+    "question": "What are the benefits of vitamin C in skincare?",
+    "answer": "Vitamin C is a potent antioxidant that helps brighten skin tone, fade dark spots and hyperpigmentation, and protect the skin from free radical damage caused by UV exposure and pollution. It also supports collagen synthesis. Look for stabilized forms like L-ascorbic acid (10–20%) or more stable derivatives. Store in a dark, cool place as it can oxidize.",
+    "category": "ingredients",
+    "subcategory": "vitamin_c",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_010",
+    "question": "What are retinoids and how do they work?",
+    "answer": "Retinoids are vitamin A derivatives that accelerate cell turnover, stimulate collagen production, and help unclog pores. They are effective for anti-aging, acne treatment, and improving skin texture. Over-the-counter options include retinol. Start with a low concentration (0.025–0.1%) a few nights per week and gradually increase. They can cause initial dryness and sensitivity, so always use sunscreen and moisturize well.",
+    "category": "ingredients",
+    "subcategory": "retinoids",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_011",
+    "question": "How does benzoyl peroxide help with acne?",
+    "answer": "Benzoyl peroxide kills acne-causing bacteria (C. acnes) and helps remove dead skin cells and excess oil. It is available in concentrations from 2.5% to 10%. Lower concentrations are often just as effective as higher ones with less irritation. It can bleach fabrics, so use white pillowcases. It works well in combination with other acne treatments.",
+    "category": "ingredients",
+    "subcategory": "benzoyl_peroxide",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_012",
+    "question": "What are ceramides and why are they important?",
+    "answer": "Ceramides are naturally occurring lipids that make up a large part of the skin barrier. They help retain moisture and protect the skin from environmental damage. Products containing ceramides can help repair a damaged or compromised skin barrier, making them particularly beneficial for dry, sensitive, or eczema-prone skin.",
+    "category": "ingredients",
+    "subcategory": "ceramides",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_013",
+    "question": "How do I get rid of acne?",
+    "answer": "Managing acne generally involves a consistent skincare routine with gentle cleansing, avoiding pore-clogging products, and using targeted treatments. Salicylic acid helps unclog pores, benzoyl peroxide kills bacteria, and niacinamide reduces inflammation. Avoid touching your face and change pillowcases frequently. For persistent or severe acne, consulting a dermatologist is strongly recommended as prescription treatments may be needed.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_014",
+    "question": "How do I treat blackheads?",
+    "answer": "Blackheads are open comedones caused by oxidized sebum and dead skin cells in pores. Regular use of salicylic acid (BHA) helps dissolve the buildup inside pores. Gentle exfoliation and clay masks can also help. Avoid aggressive squeezing which can damage skin and cause scarring. Keeping pores clean and using non-comedogenic products helps prevent new blackheads.",
+    "category": "concerns",
+    "subcategory": "blackheads",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_015",
+    "question": "What causes whiteheads and how can I treat them?",
+    "answer": "Whiteheads are closed comedones formed when pores become clogged with sebum and dead skin cells. Salicylic acid and retinoids are effective at preventing and treating them by promoting cell turnover and keeping pores clear. Avoid heavy, pore-clogging products. Gentle, consistent exfoliation helps. Do not attempt to squeeze whiteheads as this can lead to inflammation and scarring.",
+    "category": "concerns",
+    "subcategory": "whiteheads",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_016",
+    "question": "How can I get rid of dark spots?",
+    "answer": "Dark spots, also called post-inflammatory hyperpigmentation, can be faded with consistent use of ingredients like vitamin C, niacinamide, alpha arbutin, and azelaic acid. AHAs like glycolic acid can help with cell turnover. Sun protection is critical because UV exposure darkens existing spots. Results take time — typically weeks to months of consistent use. A dermatologist can advise on stronger treatments if needed.",
+    "category": "concerns",
+    "subcategory": "dark_spots",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_017",
+    "question": "What is hyperpigmentation and how do I treat it?",
+    "answer": "Hyperpigmentation is the darkening of certain areas of skin caused by excess melanin production. It can result from sun damage, acne, or inflammation. Treatment ingredients include vitamin C, niacinamide, kojic acid, alpha arbutin, azelaic acid, and retinoids. Consistent daily sunscreen use is essential to prevent worsening. Results require patience — improvement is typically seen over several months.",
+    "category": "concerns",
+    "subcategory": "hyperpigmentation",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_018",
+    "question": "How do I soothe skin irritation?",
+    "answer": "For irritated skin, simplify your routine immediately. Use only a gentle cleanser, a plain fragrance-free moisturizer, and sunscreen. Soothing ingredients like centella asiatica, aloe vera, panthenol, and colloidal oatmeal can help calm irritation. Avoid active ingredients, exfoliants, and fragrances while your skin recovers. If irritation is severe, persistent, or accompanied by other symptoms, consult a dermatologist.",
+    "category": "concerns",
+    "subcategory": "irritation",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_019",
+    "question": "How do I improve uneven skin texture?",
+    "answer": "Uneven skin texture can be improved with regular gentle exfoliation. Chemical exfoliants like AHAs (glycolic or lactic acid) and BHAs (salicylic acid) are generally preferred over physical scrubs. Retinoids promote cell turnover and improve texture over time. Consistent moisturizing and sun protection support healthy skin renewal. Results are gradual — expect improvement over several weeks to months.",
+    "category": "concerns",
+    "subcategory": "uneven_texture",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_020",
+    "question": "What is a good morning skincare routine?",
+    "answer": "A solid morning routine includes: cleanser (or water rinse if you have dry skin), optional serum such as vitamin C or niacinamide, moisturizer, and mandatory broad-spectrum SPF 30 or higher sunscreen. Apply products from thinnest to thickest consistency. Sunscreen is the most important step in the morning to protect against UV damage throughout the day.",
+    "category": "routines",
+    "subcategory": "morning",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_021",
+    "question": "What is a good nighttime skincare routine?",
+    "answer": "A good night routine includes a thorough cleanse to remove sunscreen, makeup, and daily buildup. Apply any treatment serums such as retinol, AHAs, or BHAs. Follow with a nourishing moisturizer. Night is the ideal time for active ingredients since there is no UV exposure and the skin undergoes natural repair processes. Avoid mixing too many actives at once.",
+    "category": "routines",
+    "subcategory": "night",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_022",
+    "question": "What is a beginner skincare routine?",
+    "answer": "A beginner skincare routine needs only three steps: cleanse, moisturize, protect. Use a gentle cleanser suited to your skin type, a simple fragrance-free moisturizer, and a broad-spectrum SPF 30+ sunscreen every morning. Master these basics before adding any serums or actives. Consistency is more important than having many products.",
+    "category": "routines",
+    "subcategory": "beginner",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_023",
+    "question": "What is a good routine for acne-prone skin?",
+    "answer": "For acne-prone skin, use a gentle foaming or gel cleanser, a salicylic acid toner or serum to keep pores clear, a lightweight oil-free moisturizer, and SPF 30+ sunscreen. At night, consider a benzoyl peroxide spot treatment or a retinoid. Avoid heavy, comedogenic products. Change pillowcases frequently and keep hands away from your face. Consult a dermatologist for persistent or severe acne.",
+    "category": "routines",
+    "subcategory": "acne_prone",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_024",
+    "question": "What routine should I follow for sensitive skin?",
+    "answer": "For sensitive skin, keep your routine minimal: a gentle fragrance-free cleanser, a simple soothing moisturizer with ingredients like centella asiatica, aloe, or panthenol, and a mineral sunscreen. Avoid alcohol-based toners, synthetic fragrances, and harsh exfoliants. Introduce one new product at a time and always patch test on your inner arm before applying to your face.",
+    "category": "routines",
+    "subcategory": "sensitive_skin",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_025",
+    "question": "Why is sunscreen important?",
+    "answer": "Sunscreen is the most important skincare product you can use. UV radiation is the primary cause of premature aging, wrinkles, dark spots, and significantly increases the risk of skin cancer. Use a broad-spectrum SPF 30 or higher daily, even on cloudy days or when indoors near windows. Reapply every two hours when outdoors. Sunscreen is non-negotiable for any effective skincare routine.",
+    "category": "general",
+    "subcategory": "sunscreen",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_026",
+    "question": "How should I cleanse my face?",
+    "answer": "Cleanse your face twice daily — morning and evening. Use a gentle cleanser appropriate for your skin type. Wet your face with lukewarm water (not hot), apply cleanser with clean fingertips using gentle circular motions for about 30 to 60 seconds, and rinse thoroughly. Pat dry with a clean towel. Avoid harsh scrubbing or overly stripping cleansers that leave skin feeling tight.",
+    "category": "general",
+    "subcategory": "cleansing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_027",
+    "question": "What moisturizer should I use?",
+    "answer": "Choose a moisturizer based on your skin type. For oily skin, use a lightweight gel or water-based formula. For dry skin, choose a cream or balm with occlusive ingredients like shea butter or petrolatum. For normal or combination skin, a lotion works well. Look for non-comedogenic formulas if you are acne-prone. Key beneficial ingredients include hyaluronic acid, ceramides, and glycerin.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_028",
+    "question": "How do I patch test a new skincare product?",
+    "answer": "To patch test, apply a small amount of the new product to the inside of your wrist or behind your ear. Leave it for 24 to 48 hours without washing. If you experience no redness, itching, or irritation, it is generally safe to use on your face. Start by applying it every other day and monitor your skin's response before using it daily.",
+    "category": "general",
+    "subcategory": "patch_testing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_029",
+    "question": "In what order should I apply skincare products?",
+    "answer": "Apply skincare products from thinnest to thickest consistency. A general order is: cleanser, toner, essence, serum or treatment, eye cream, moisturizer, face oil, sunscreen (morning only). Treatments like retinol and acids are typically applied before moisturizer. Allow each layer a minute to absorb before applying the next. Sunscreen always goes last in your morning routine.",
+    "category": "general",
+    "subcategory": "product_layering",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_030",
+    "question": "Can I use niacinamide and vitamin C together?",
+    "answer": "Yes, you can use niacinamide and vitamin C together in your routine. Despite older concerns, current evidence suggests they do not cancel each other out. If you are concerned, you can apply them at different times of day — vitamin C in the morning and niacinamide at night. Both are beneficial ingredients for brightening and skin health.",
+    "category": "ingredients",
+    "subcategory": "niacinamide",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_031",
+    "question": "Can I use retinol every night?",
+    "answer": "It is generally best to start retinol slowly — once or twice a week — and gradually increase frequency as your skin builds tolerance. Using retinol every night immediately can cause significant dryness, peeling, and irritation. Once your skin has adapted over several weeks to months, you may be able to use it nightly. Always use sunscreen during the day when using retinoids.",
+    "category": "ingredients",
+    "subcategory": "retinoids",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_032",
+    "question": "What SPF should I use?",
+    "answer": "Dermatologists generally recommend using a broad-spectrum sunscreen with at least SPF 30 for daily use. SPF 50 is recommended for extended outdoor exposure. Broad-spectrum means it protects against both UVA (aging) and UVB (burning) rays. Reapply every two hours when outdoors or after swimming or sweating. Both chemical and mineral sunscreens are effective when used correctly.",
+    "category": "general",
+    "subcategory": "sunscreen",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_033",
+    "question": "What is double cleansing?",
+    "answer": "Double cleansing is a two-step cleansing method popular in Korean skincare. The first step uses an oil-based cleanser or micellar water to dissolve sunscreen, makeup, and oil-based impurities. The second step uses a water-based cleanser to remove remaining impurities and sweat. It is particularly useful in the evening for those who wear sunscreen or makeup.",
+    "category": "general",
+    "subcategory": "cleansing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_034",
+    "question": "What causes oily skin?",
+    "answer": "Oily skin is primarily caused by overactive sebaceous glands producing excess sebum. Factors include genetics, hormonal changes such as puberty, menstruation, or stress, hot and humid weather, using harsh products that strip the skin causing it to overproduce oil, and diet. Over-cleansing or using alcohol-based products can worsen oiliness as the skin compensates by producing more sebum.",
+    "category": "skin_types",
+    "subcategory": "oily",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_035",
+    "question": "Why does my skin feel dry and tight?",
+    "answer": "Dry, tight skin can result from using harsh cleansers that strip natural oils, cold weather, low humidity, over-exfoliating, hot showers, or dehydration. If you have inherently dry skin, your sebaceous glands produce less oil. Use gentle non-stripping cleansers, apply moisturizer immediately after cleansing while skin is still slightly damp, and consider adding hyaluronic acid or glycerin-based products.",
+    "category": "skin_types",
+    "subcategory": "dry",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_036",
+    "question": "What is skin purging?",
+    "answer": "Skin purging refers to an initial breakout that can occur when starting a new active ingredient, particularly retinoids or chemical exfoliants like AHAs. These ingredients accelerate cell turnover, bringing existing congestion to the surface faster than usual. Purging typically occurs in areas where you usually break out and generally resolves within four to six weeks. If breakouts appear in new areas or persist beyond six weeks, it may be a reaction rather than purging.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_037",
+    "question": "How long does it take to see skincare results?",
+    "answer": "Skincare results require patience. Basic improvements in hydration and texture can be seen within one to two weeks. Acne improvements with treatments like salicylic acid or benzoyl peroxide typically take four to eight weeks. Fading dark spots or hyperpigmentation with vitamin C or niacinamide can take three to six months. Anti-aging improvements with retinoids may take six months or more. Consistency is key.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_038",
+    "question": "Can I use AHA and BHA together?",
+    "answer": "You can use AHA and BHA in your routine, but using them at the same time can be irritating, especially for sensitive skin. It is generally better to alternate them — AHA (like glycolic acid) on some nights and BHA (like salicylic acid) on others. Some products combine both at lower concentrations. Start slowly and monitor your skin's tolerance. Always moisturize after exfoliating.",
+    "category": "ingredients",
+    "subcategory": "salicylic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_039",
+    "question": "What is glycolic acid and how does it work?",
+    "answer": "Glycolic acid is an alpha-hydroxy acid (AHA) derived from sugar cane. It works by loosening the bonds between dead skin cells, allowing them to shed more easily and revealing brighter, smoother skin underneath. It is effective for improving texture, reducing fine lines, fading dark spots, and unclogging pores. Start with lower concentrations (around 5–8%) and build up gradually.",
+    "category": "ingredients",
+    "subcategory": "salicylic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_040",
+    "question": "What is lactic acid used for in skincare?",
+    "answer": "Lactic acid is a gentle AHA derived from milk. It exfoliates the skin surface to improve texture and tone, and it also has hydrating properties. It is a good choice for beginners to chemical exfoliation or for those with sensitive skin who cannot tolerate stronger acids like glycolic acid. It is effective for mild hyperpigmentation and smoothing rough skin.",
+    "category": "ingredients",
+    "subcategory": "salicylic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_041",
+    "question": "Is it bad to sleep with makeup on?",
+    "answer": "Sleeping with makeup on can clog pores, contribute to acne, cause eye irritation if eye makeup is left on, and break down the skin barrier. It also prevents effective skin renewal during sleep. Always remove makeup before bed using a makeup remover, micellar water, or an oil cleanser, followed by your regular cleanser for a thorough cleanse.",
+    "category": "general",
+    "subcategory": "cleansing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_042",
+    "question": "Can diet affect my skin?",
+    "answer": "Diet can influence skin health. High-glycemic foods and dairy have been associated with acne in some studies, though responses vary individually. Foods rich in antioxidants like fruits, vegetables, and omega-3 fatty acids may support skin health. Staying well-hydrated is beneficial. However, skin is complex and genetics, hormones, and skincare habits play significant roles alongside diet.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_043",
+    "question": "What is the skin barrier and how do I protect it?",
+    "answer": "The skin barrier is the outermost layer of skin that protects against environmental aggressors, prevents moisture loss, and keeps irritants out. A healthy skin barrier keeps skin feeling comfortable and resilient. To protect it, avoid over-cleansing, harsh scrubs, and excessive use of actives. Use gentle cleansers, ceramide-containing moisturizers, and avoid very hot water. Sun protection also helps maintain barrier integrity.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_044",
+    "question": "How often should I exfoliate?",
+    "answer": "Most skin types benefit from exfoliating two to three times per week. Sensitive skin may do better with once a week or less. Over-exfoliating can damage the skin barrier, cause redness, sensitivity, and breakouts. Chemical exfoliants like AHAs and BHAs are generally gentler than physical scrubs. Listen to your skin and reduce frequency if you notice irritation.",
+    "category": "routines",
+    "subcategory": "morning",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_045",
+    "question": "What is azelaic acid good for?",
+    "answer": "Azelaic acid is a gentle multitasking ingredient that targets hyperpigmentation, rosacea, and mild acne. It inhibits melanin production to fade dark spots, has antibacterial properties to address acne-causing bacteria, and has anti-inflammatory effects. It is generally well-tolerated by sensitive skin and is safe to use during pregnancy (consult your doctor). Typical concentrations range from 10% to 20%.",
+    "category": "ingredients",
+    "subcategory": "niacinamide",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_046",
+    "question": "What causes under-eye dark circles?",
+    "answer": "Under-eye dark circles can have multiple causes including genetics, thin skin that makes blood vessels more visible, lack of sleep, dehydration, allergies, and sun damage. Treatments depend on the cause. Caffeine-based eye creams can temporarily reduce puffiness. Vitamin C and kojic acid may help with pigmentation. Getting adequate sleep, staying hydrated, and using sunscreen around the eye area are foundational steps.",
+    "category": "concerns",
+    "subcategory": "dark_spots",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_047",
+    "question": "What is the difference between moisturizer and sunscreen?",
+    "answer": "A moisturizer hydrates and supports the skin barrier, while sunscreen protects against UV radiation. They serve different purposes. Some moisturizers include SPF, but standalone sunscreens typically provide better protection. For adequate UV protection, use a dedicated broad-spectrum SPF 30+ sunscreen as the last step in your morning routine, applied over your moisturizer.",
+    "category": "general",
+    "subcategory": "sunscreen",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_048",
+    "question": "Can I use hyaluronic acid and niacinamide together?",
+    "answer": "Yes, hyaluronic acid and niacinamide work very well together and can be layered in the same routine. Apply hyaluronic acid first on damp skin to attract moisture, then follow with niacinamide to help with oil control and skin tone. Both are gentle, versatile ingredients that complement each other for well-rounded hydration and skin health.",
+    "category": "ingredients",
+    "subcategory": "hyaluronic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_049",
+    "question": "What are the signs of a damaged skin barrier?",
+    "answer": "Signs of a damaged skin barrier include persistent dryness, flaking, redness, itching, stinging when applying products, increased sensitivity, breakouts in unusual areas, and skin that feels rough or uneven. To repair it, strip your routine back to basics: gentle cleanser, simple moisturizer with ceramides and fatty acids, and sunscreen. Avoid all actives until skin recovers.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_050",
+    "question": "How do I choose a cleanser for my skin type?",
+    "answer": "For oily or acne-prone skin, choose a foaming gel or salicylic acid cleanser. For dry skin, use a cream or oil cleanser that does not leave skin feeling tight. For sensitive skin, choose a fragrance-free, soap-free gentle cleanser. For combination skin, a balanced gentle foaming cleanser works well. A good cleanser should leave skin feeling comfortable, not stripped or overly tight.",
+    "category": "general",
+    "subcategory": "cleansing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_051",
+    "question": "What is SPF 50 versus SPF 30?",
+    "answer": "SPF 30 blocks about 97% of UVB rays while SPF 50 blocks about 98%. The difference is marginal in real-world use, especially if sunscreen is not reapplied properly. SPF 30 is adequate for daily use. SPF 50 may be preferred for prolonged outdoor exposure. Regardless of SPF, broad-spectrum protection and proper reapplication every two hours are what truly matter.",
+    "category": "general",
+    "subcategory": "sunscreen",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_052",
+    "question": "What is toner and do I need it?",
+    "answer": "Toner is a liquid product applied after cleansing. Modern toners are designed to hydrate, balance pH, prep skin for subsequent products, or deliver specific actives. They are not strictly necessary if your cleanser is gentle and your moisturizer is effective. However, hydrating toners with ingredients like hyaluronic acid or glycerin can be a beneficial extra hydration step.",
+    "category": "general",
+    "subcategory": "product_layering",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_053",
+    "question": "Can I use retinol and vitamin C together?",
+    "answer": "Retinol and vitamin C can be sensitizing, especially together. It is generally recommended to use vitamin C in the morning and retinol at night. Vitamin C benefits from UV protection during the day, and retinol is best used at night as it can degrade with sun exposure. If you want both in your evening routine, allow time between application or start alternating nights.",
+    "category": "ingredients",
+    "subcategory": "retinoids",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_054",
+    "question": "What is rosacea and how do I manage it?",
+    "answer": "Rosacea is a chronic skin condition characterized by persistent redness, visible blood vessels, and sometimes acne-like breakouts, primarily on the face. It is best managed with help from a dermatologist. General skincare tips include using gentle fragrance-free products, identifying and avoiding personal triggers like sun exposure, spicy food, alcohol, or temperature extremes, and using a mineral sunscreen. Niacinamide and azelaic acid may help with redness. Consult a dermatologist for appropriate treatment.",
+    "category": "concerns",
+    "subcategory": "irritation",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_055",
+    "question": "What is eczema and how is it managed?",
+    "answer": "Eczema, or atopic dermatitis, is a chronic inflammatory skin condition causing dry, itchy, and inflamed skin. It requires medical management and a dermatologist should be consulted for diagnosis and treatment. Skincare-wise, moisturizing frequently with ceramide-rich creams is important. Use gentle fragrance-free products, take short lukewarm showers, and avoid known triggers. Prescription topical treatments are often needed.",
+    "category": "concerns",
+    "subcategory": "dryness",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_056",
+    "question": "How do I reduce pores appearance?",
+    "answer": "Pores cannot be physically shrunk as their size is largely determined by genetics. However, their appearance can be minimized. Keeping pores clean with salicylic acid and regular cleansing prevents them from stretching. Retinoids can improve skin texture over time. Applying sunscreen protects against UV damage that can make pores appear larger. Niacinamide may also help with pore appearance.",
+    "category": "concerns",
+    "subcategory": "uneven_texture",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_057",
+    "question": "What is the best ingredient for hydration?",
+    "answer": "For hydration, hyaluronic acid is a standout humectant that draws moisture into the skin. Glycerin is another excellent and affordable humectant. For sealing in moisture (occlusion), ingredients like shea butter, squalane, or petrolatum are effective. Ceramides help repair the barrier to retain moisture long-term. Layering a humectant serum under an occlusive moisturizer provides effective hydration.",
+    "category": "ingredients",
+    "subcategory": "hyaluronic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_058",
+    "question": "What is a serum and how is it different from a moisturizer?",
+    "answer": "A serum is a lightweight, concentrated formula designed to deliver targeted active ingredients like vitamin C, niacinamide, or hyaluronic acid deep into the skin. Serums have smaller molecules than moisturizers for better penetration. A moisturizer focuses on hydration and barrier protection with larger molecules. They serve different purposes and work best when used together — serum first, then moisturizer.",
+    "category": "general",
+    "subcategory": "product_layering",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_059",
+    "question": "What is the best sunscreen for oily skin?",
+    "answer": "For oily skin, look for sunscreens labeled oil-free, mattifying, or gel-based. Chemical sunscreens with lightweight formulas tend to work well for oily skin types. Some mineral sunscreens can feel heavy or leave a white cast. Gel or fluid mineral sunscreens are improving. Avoid sunscreens with heavy creamy textures or lots of emollients that can increase shine.",
+    "category": "skin_types",
+    "subcategory": "oily",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_060",
+    "question": "Can I use oils if I have oily skin?",
+    "answer": "Yes, some face oils can actually be beneficial for oily skin. Oils like jojoba, squalane, and rosehip are generally non-comedogenic and can help balance oil production without clogging pores. Avoid heavy occlusive oils like coconut oil or cocoa butter if you are acne-prone. Use face oil as the last step in your night routine in small amounts.",
+    "category": "skin_types",
+    "subcategory": "oily",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_061",
+    "question": "What is slugging in skincare?",
+    "answer": "Slugging is the practice of applying a thin layer of petroleum jelly or similar occlusive product as the final step of your nighttime routine. It creates a seal over all your other products, locking in moisture and supporting skin barrier repair. It is particularly useful for very dry or compromised skin. It is not recommended for acne-prone skin as it can trap bacteria.",
+    "category": "routines",
+    "subcategory": "night",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_062",
+    "question": "What is the best way to apply sunscreen?",
+    "answer": "Apply sunscreen as the last step of your morning skincare routine, after moisturizer. Use about a quarter teaspoon (one to two finger lengths) for your face alone. Apply it generously and evenly, covering all exposed areas including ears and neck. Allow it to sit for a minute before applying makeup. Reapply every two hours outdoors, or immediately after swimming or heavy sweating.",
+    "category": "general",
+    "subcategory": "sunscreen",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_063",
+    "question": "What is centella asiatica good for in skincare?",
+    "answer": "Centella asiatica, also known as cica or gotu kola, is a soothing plant extract prized in skincare for its calming and healing properties. It helps reduce redness, soothe irritation, support skin barrier repair, and may promote collagen synthesis. It is particularly beneficial for sensitive, reactive, or post-procedure skin. It is generally gentle and well-tolerated.",
+    "category": "ingredients",
+    "subcategory": "niacinamide",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_064",
+    "question": "What ingredients should I avoid mixing?",
+    "answer": "Some combinations to approach with caution: retinol with AHAs or BHAs in the same step (can cause over-irritation), benzoyl peroxide with retinol (may inactivate retinol), and multiple high-concentration actives at once. It is generally fine to use different actives at different times of day or on alternating nights. When in doubt, keep your routine simple and introduce one new ingredient at a time.",
+    "category": "ingredients",
+    "subcategory": "retinoids",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_065",
+    "question": "How do I treat cystic acne?",
+    "answer": "Cystic acne is a severe form of acne involving painful, deep, inflamed nodules under the skin. It is strongly recommended to consult a dermatologist for cystic acne, as it often requires prescription treatments such as topical or oral antibiotics, hormonal therapy, or isotretinoin. Over-the-counter products are generally not sufficient. Avoid squeezing cystic acne as it can worsen inflammation and increase the risk of scarring.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_066",
+    "question": "What is alpha arbutin?",
+    "answer": "Alpha arbutin is a naturally derived brightening ingredient that inhibits melanin production, helping to fade dark spots, hyperpigmentation, and uneven skin tone. It is gentler and more stable than kojic acid and is well-tolerated by most skin types. Typical concentrations in products range from 1% to 2%. Results are gradual and consistent use alongside sunscreen is important.",
+    "category": "ingredients",
+    "subcategory": "vitamin_c",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_067",
+    "question": "Is it necessary to use an eye cream?",
+    "answer": "Eye creams are not strictly necessary if your regular moisturizer is gentle enough for the eye area. The skin around the eyes is thinner and more delicate. A dedicated eye cream can provide targeted ingredients like caffeine for puffiness or peptides for fine lines. If you use active ingredients on your face that might be too harsh for the eye area, using a separate gentle eye cream can be beneficial.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_068",
+    "question": "What causes acne on the jawline?",
+    "answer": "Jawline acne is often hormonal in nature, commonly occurring along the chin and jawline area. It can flare around the menstrual cycle or due to hormonal imbalances. Contributing factors can include friction from masks, chin straps, or resting hands on the face. Hormonal acne often appears as deep, tender cysts. A dermatologist can evaluate hormonal factors and advise on appropriate treatment.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_069",
+    "question": "How do I fade acne scars?",
+    "answer": "Acne scars, particularly post-inflammatory hyperpigmentation (PIH — dark spots), can be faded with consistent use of brightening ingredients like vitamin C, niacinamide, alpha arbutin, and azelaic acid. AHAs can help with surface-level discoloration. For textural scars or deeper indentations, dermatological procedures like chemical peels, microneedling, or laser treatments may be more effective — consult a dermatologist.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_070",
+    "question": "What is peptides in skincare?",
+    "answer": "Peptides are short chains of amino acids, the building blocks of proteins like collagen and elastin. In skincare, peptides can signal the skin to produce more collagen, potentially helping with firmness and reducing the appearance of fine lines. They are generally gentle ingredients suitable for most skin types and can be layered with most other ingredients.",
+    "category": "ingredients",
+    "subcategory": "vitamin_c",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_071",
+    "question": "Can I use sunscreen at night?",
+    "answer": "No, there is no benefit to using sunscreen at night. Sunscreen is specifically designed to protect against UV radiation from the sun. At night, your skin does not need UV protection. Instead, focus on repairing and nourishing your skin with appropriate serums, treatments, and a good moisturizer. Using sunscreen at night is simply unnecessary.",
+    "category": "general",
+    "subcategory": "sunscreen",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_072",
+    "question": "What are the best ingredients for anti-aging?",
+    "answer": "Retinoids are the most well-researched and proven anti-aging ingredients, stimulating collagen production and promoting cell turnover. Vitamin C protects against UV damage and brightens. Sunscreen remains the single most effective anti-aging tool. Peptides, hyaluronic acid, and ceramides support hydration and barrier function. Niacinamide helps with uneven tone. Consistent use and sun protection are more important than any single ingredient.",
+    "category": "concerns",
+    "subcategory": "dark_spots",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_073",
+    "question": "What is skin fasting?",
+    "answer": "Skin fasting is the practice of temporarily stopping or reducing all skincare products to allow the skin to reset. It can help identify which products are causing issues or over-sensitizing the skin. During a skin fast, you might use only a gentle cleanser and moisturizer or even just water. It is not necessary for most people but can be helpful for troubleshooting reactive or irritated skin.",
+    "category": "general",
+    "subcategory": "product_layering",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_074",
+    "question": "How does stress affect skin?",
+    "answer": "Stress triggers the release of cortisol, which can increase sebum production and inflammation, potentially leading to breakouts and flare-ups of conditions like eczema or psoriasis. Chronic stress can impair the skin barrier and slow skin repair. Managing stress through sleep, exercise, and relaxation can have positive effects on skin health. Skincare alone cannot fully compensate for chronic stress.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_075",
+    "question": "What is micellar water and how do I use it?",
+    "answer": "Micellar water contains tiny molecules called micelles suspended in soft water. These micelles attract and lift away dirt, makeup, and sunscreen without rinsing. It is a gentle first cleanse, especially useful for sensitive skin or those who prefer not to use oil cleansers. After using micellar water, follow up with a regular face wash for a thorough cleanse, especially if you have worn heavy makeup or sunscreen.",
+    "category": "general",
+    "subcategory": "cleansing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_076",
+    "question": "What is the 60-second rule in skincare?",
+    "answer": "The 60-second rule suggests massaging your cleanser into your face for at least 60 seconds before rinsing. The idea is that this extended contact time allows cleansing ingredients to more effectively dissolve sebum, sunscreen, and impurities. It may be particularly helpful for thorough removal of sunscreen. Whether it is necessary depends on your cleanser and skin, but it generally does not harm skin.",
+    "category": "general",
+    "subcategory": "cleansing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_077",
+    "question": "How do I deal with dry patches in winter?",
+    "answer": "In winter, switch to a more emollient cleanser, add hyaluronic acid serum applied to damp skin, upgrade to a richer moisturizer with ceramides and fatty acids, and add a facial oil on top if needed. Use a humidifier indoors. Take shorter and cooler showers. Avoid over-exfoliating during dry months. Ensure your sunscreen is moisturizing enough or use a separate moisturizer underneath.",
+    "category": "concerns",
+    "subcategory": "dryness",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_078",
+    "question": "What causes maskne and how do I prevent it?",
+    "answer": "Maskne refers to acne and skin irritation caused by wearing face masks. The friction, heat, and humidity inside a mask create an environment where bacteria and breakouts thrive. To prevent it, use a gentle cleanser and lightweight moisturizer, wash reusable masks frequently, avoid heavy makeup under your mask, and apply a simple barrier product like petroleum jelly or silicone-based serum to friction points.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_079",
+    "question": "What is bakuchiol?",
+    "answer": "Bakuchiol is a plant-derived ingredient often marketed as a natural alternative to retinol. It has been shown in some studies to improve the appearance of fine lines and skin tone with less irritation than retinol. It is generally gentler, making it suitable for sensitive skin or those who cannot tolerate retinoids. However, it may be less potent than retinol for significant anti-aging concerns.",
+    "category": "ingredients",
+    "subcategory": "retinoids",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_080",
+    "question": "What is the ideal routine for combination skin?",
+    "answer": "For combination skin, use a balanced gel or foaming cleanser, a lightweight moisturizer that does not feel heavy on the T-zone but still provides enough hydration for drier areas. Niacinamide helps balance oil in the T-zone without drying out cheeks. Use an SPF appropriate for your skin. You can multi-mask — a clay mask on the T-zone and a hydrating mask on drier areas.",
+    "category": "skin_types",
+    "subcategory": "combination",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_081",
+    "question": "How do I treat post-inflammatory erythema (red marks)?",
+    "answer": "Post-inflammatory erythema (PIE) refers to the pink or red flat marks left after acne heals. Unlike PIH (dark spots), these are vascular in nature. They typically fade on their own over weeks to months. Niacinamide and azelaic acid can help. Sun protection prevents worsening. Vitamin C may help support skin healing. Dermatological treatments like laser therapy can speed up resolution for persistent cases.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_082",
+    "question": "What is the difference between chemical and mineral sunscreen?",
+    "answer": "Chemical sunscreens contain organic UV-absorbing filters like avobenzone or oxybenzone that absorb UV radiation and convert it to heat. Mineral sunscreens (physical blockers) use zinc oxide or titanium dioxide to physically block and scatter UV rays. Mineral sunscreens are generally preferred for sensitive skin and are reef-safer. Chemical sunscreens are often more cosmetically elegant on darker skin tones. Both provide effective protection when used correctly.",
+    "category": "general",
+    "subcategory": "sunscreen",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_083",
+    "question": "What is tranexamic acid in skincare?",
+    "answer": "Tranexamic acid is a brightening ingredient that targets hyperpigmentation by inhibiting melanin transfer in the skin. It is particularly effective for melasma and post-inflammatory hyperpigmentation. It is generally gentle and suitable for all skin types. It can be used alongside other brighteners like niacinamide, vitamin C, and alpha arbutin for enhanced effects.",
+    "category": "ingredients",
+    "subcategory": "vitamin_c",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_084",
+    "question": "How do I know if a product is non-comedogenic?",
+    "answer": "Non-comedogenic means a product is formulated to not clog pores. While the term is not strictly regulated, it is generally used for products that avoid known pore-clogging ingredients. Common comedogenic ingredients to watch for include coconut oil, cocoa butter, and some heavy waxes. Even non-comedogenic products can cause breakouts in some individuals, so patch testing is always a good idea.",
+    "category": "general",
+    "subcategory": "patch_testing",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_085",
+    "question": "What is the purpose of a face mist?",
+    "answer": "Face mists can provide a refreshing hydration boost throughout the day. They can be used to set makeup, refresh sunscreen (with SPF mists), or simply provide comfort to skin throughout the day. Ingredients like rose water, hyaluronic acid, or glycerin in mists add light hydration. They are not a replacement for a proper moisturizer but can be a nice addition to your routine.",
+    "category": "general",
+    "subcategory": "product_layering",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_086",
+    "question": "Can hormones affect acne?",
+    "answer": "Yes, hormones play a significant role in acne, particularly androgens like testosterone that stimulate sebum production. Hormonal acne is common during puberty, around the menstrual cycle, pregnancy, and with conditions like polycystic ovary syndrome (PCOS). If you suspect hormonal acne, consult a dermatologist or doctor. They can evaluate hormonal factors and discuss appropriate treatments.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_087",
+    "question": "What is zinc oxide in skincare?",
+    "answer": "Zinc oxide is a mineral UV filter used in physical sunscreens. It provides broad-spectrum UVA and UVB protection, is gentle on sensitive skin, and has mild anti-inflammatory properties. It can also be found in diaper rash creams and skin protectants. In higher concentrations it can leave a white cast, but formulations have improved significantly in recent years.",
+    "category": "ingredients",
+    "subcategory": "benzoyl_peroxide",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_088",
+    "question": "What is the best way to moisturize very dry skin?",
+    "answer": "For very dry skin, apply moisturizer to damp skin immediately after cleansing to lock in water. Use a rich cream formulation containing ceramides, shea butter, glycerin, and squalane. Layer a humectant serum like hyaluronic acid underneath your moisturizer. Consider a thicker overnight mask or balm at night. A humidifier in your bedroom can also help maintain ambient moisture.",
+    "category": "skin_types",
+    "subcategory": "dry",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_089",
+    "question": "What is squalane oil?",
+    "answer": "Squalane is a lightweight, stable oil derived from sugarcane or olives that is excellent for moisturizing skin without clogging pores. It mimics skin's natural sebum, making it suitable for all skin types including oily and acne-prone skin. It helps seal in moisture, smooth skin texture, and is well-tolerated even by sensitive skin. It can be used as the last step in your routine.",
+    "category": "ingredients",
+    "subcategory": "hyaluronic_acid",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_090",
+    "question": "How do I reduce redness in my skin?",
+    "answer": "To reduce facial redness, identify potential triggers such as harsh products, alcohol-based toners, fragrances, extreme temperatures, or dietary triggers. Use gentle fragrance-free skincare. Ingredients like niacinamide, azelaic acid, and centella asiatica have anti-inflammatory properties that can help reduce redness. A mineral sunscreen protects against UV-triggered redness. Persistent or worsening redness warrants a dermatologist evaluation.",
+    "category": "concerns",
+    "subcategory": "irritation",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_091",
+    "question": "What is the best Korean skincare routine?",
+    "answer": "The Korean skincare routine traditionally emphasizes thorough cleansing, deep hydration, and sun protection. A simplified version includes: oil cleanser, water-based cleanser, toner, essence, serum, sheet mask (occasional), eye cream, moisturizer, and sunscreen (morning). The focus is on layering light hydrating products to build up moisture levels. The 10-step routine is a guideline, not a strict requirement.",
+    "category": "routines",
+    "subcategory": "morning",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_092",
+    "question": "How important is sleep for skin health?",
+    "answer": "Sleep is extremely important for skin health. During sleep, the body undergoes cellular repair, and skin cell regeneration increases. Lack of sleep can lead to dull skin, dark circles, puffiness, and increased cortisol levels that exacerbate inflammation and breakouts. Most adults need seven to nine hours of quality sleep. Using a nourishing night routine before sleep maximizes the skin's repair window.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_093",
+    "question": "What is dermal filler and is it the same as skincare?",
+    "answer": "Dermal fillers are cosmetic medical procedures performed by qualified medical professionals involving injections to add volume or reduce the appearance of lines. They are entirely different from topical skincare products. Skincare cannot replicate the effects of medical procedures like fillers or Botox. If you are interested in these procedures, consult a qualified dermatologist or aesthetic physician.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_094",
+    "question": "How do I build a skincare routine from scratch?",
+    "answer": "Start with the fundamentals: cleanser, moisturizer, and sunscreen (morning). Get comfortable with these three products for two to four weeks. Once your skin is stable, add one optional product — perhaps a vitamin C serum in the morning or a retinol at night. Introduce new products one at a time with at least two weeks between additions to identify how your skin responds.",
+    "category": "routines",
+    "subcategory": "beginner",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_095",
+    "question": "What products should I avoid for acne-prone skin?",
+    "answer": "For acne-prone skin, avoid heavy creams and oils with comedogenic ingredients like coconut oil, cocoa butter, or lanolin. Avoid products with high concentrations of alcohol which can irritate. Avoid very occlusive ingredients at high amounts. Use the term non-comedogenic as a guide. Heavy foundations and pore-clogging makeup should also be approached carefully. Focus on lightweight, water-based formulas.",
+    "category": "routines",
+    "subcategory": "acne_prone",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_096",
+    "question": "What is the function of toner in Korean skincare?",
+    "answer": "In Korean skincare, toner (often called first essence or skin) serves primarily to provide the first layer of hydration after cleansing and to prep skin for subsequent products. Unlike traditional Western astringent toners, Korean toners are typically watery, hydrating, and gentle. They often contain humectants and skin-soothing ingredients to begin the layering process of moisture.",
+    "category": "general",
+    "subcategory": "product_layering",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_097",
+    "question": "What causes dehydrated skin even if it is oily?",
+    "answer": "Skin can be simultaneously oily and dehydrated. Dehydration refers to a lack of water content in the skin, while oiliness relates to sebum production. Over-cleansing, using harsh products, environmental factors, and not moisturizing properly can lead to dehydrated skin regardless of skin type. Even oily skin needs adequate hydration with water-based, lightweight products.",
+    "category": "skin_types",
+    "subcategory": "oily",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_098",
+    "question": "What is a good spot treatment for pimples?",
+    "answer": "Effective spot treatments for pimples include benzoyl peroxide (2.5–10%) to kill bacteria, salicylic acid to unclog the pore, or sulfur-based products which absorb excess oil. Witch hazel has mild astringent properties. Apply spot treatments directly to the blemish only. For inflamed cysts, a warm compress may help. Avoid picking or popping pimples as it can worsen inflammation and increase scarring risk.",
+    "category": "concerns",
+    "subcategory": "acne",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_099",
+    "question": "How does pollution affect skin?",
+    "answer": "Pollution, particularly particulate matter and ozone, can damage the skin barrier, generate free radicals that accelerate aging, clog pores, and contribute to dullness and uneven tone. Antioxidants like vitamin C and vitamin E in your skincare routine can help neutralize free radical damage. Thorough cleansing in the evening to remove accumulated pollutants is important for skin living in polluted environments.",
+    "category": "general",
+    "subcategory": "moisturizer",
+    "source": "skincare_kb"
+  },
+  {
+    "id": "sk_100",
+    "question": "When should I see a dermatologist?",
+    "answer": "You should consult a dermatologist if you have persistent or severe acne that does not respond to over-the-counter treatments, suspicious moles or skin growths, chronic redness or rashes, eczema, psoriasis, or other inflammatory skin conditions, or any skin concern that significantly impacts your quality of life or wellbeing. A dermatologist can provide accurate diagnoses and appropriate prescription treatments. Regular skin check-ups are also advisable for skin cancer screening.",
+    "category": "general",
+    "subcategory": "patch_testing",
+    "source": "skincare_kb"
+  }
+]

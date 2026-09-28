@@ -1,0 +1,290 @@
+[
+  {
+    "id": "dv_001",
+    "question": "What should I eat for breakfast to avoid an insulin spike?",
+    "answer": "Build breakfast around protein and fiber, and skip juice or a sweet drink on an empty stomach. Examples include eggs with vegetables, curd or Greek yogurt with berries and seeds, dal or moong chilla with salad, or tofu with a small portion of oats or whole-grain roti. Eat the protein and vegetables with or before any starch. A 10-minute walk afterward often flattens the rise further. This is a pattern, not a personal meal prescription, and it is not a reason to change insulin or tablets.",
+    "category": "meals",
+    "subcategory": "morning",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_002",
+    "question": "What is a good morning meal for someone with diabetes?",
+    "answer": "A steadier morning meal has three parts: a protein such as eggs, curd, paneer, tofu, or dal; vegetables or whole fruit; and only a modest portion of grain if you want it. Water, unsweetened tea, or black coffee replaces juice, soda, and heavily sweetened chai. People who use insulin or sulfonylureas should not suddenly shrink breakfast without talking with their clinician, because a much smaller meal can cause a low.",
+    "category": "meals",
+    "subcategory": "morning",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_003",
+    "question": "What should I eat in the afternoon if I have diabetes?",
+    "answer": "If you are hungry between lunch and dinner, use one planned snack of protein plus fiber: a handful of nuts with fruit, roasted chana, curd, cheese and cucumber, or hummus with vegetables. Skip biscuits with sweet tea, soda, and juice. If you are not hungry, water and a short walk are enough. Grazing through the afternoon usually means lunch was mostly refined starch.",
+    "category": "meals",
+    "subcategory": "afternoon",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_004",
+    "question": "What should dinner look like for blood sugar and fatty liver?",
+    "answer": "Make about half the plate non-starchy vegetables, add a palm-size portion of fish, chicken, eggs, dal, paneer, or tofu, and keep rice, roti, pasta, or potato to about a quarter of the plate. Eat the vegetables and protein before or with the starch. Finish two to three hours before bed when you can, then take a 10-minute walk. Do not skip dinner entirely if your medicines can cause overnight lows.",
+    "category": "meals",
+    "subcategory": "dinner",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_005",
+    "question": "What is an insulin spike?",
+    "answer": "After you eat carbohydrate, glucose enters the blood and the pancreas releases insulin to move it into cells. A large load of refined carbohydrate, especially juice, sweets, or white starch eaten alone, asks for a bigger and faster insulin response. Protein, fat, and fiber eaten with the carbohydrate, plus a short walk after the meal, usually make that curve smaller. A rise after eating is normal. Repeated very high rises are a reason to review food, activity, and treatment with your clinician. This assistant does not dose insulin.",
+    "category": "glucose",
+    "subcategory": "spikes",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_006",
+    "question": "How can I reduce a post-meal glucose spike?",
+    "answer": "Practical steps that many people can test: do not drink juice or soda with the meal, eat vegetables and protein before the rice or bread, keep the starch portion smaller, and walk 10 to 15 minutes within about half an hour. Check your own meter or CGM if you use one, and look at the pattern rather than one meal. Do not cut carbohydrate to near zero if you take insulin or a sulfonylurea unless your clinician adjusts the medicine.",
+    "category": "glucose",
+    "subcategory": "spikes",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_007",
+    "question": "Why does protein matter for diabetes?",
+    "answer": "Protein has little direct effect on blood glucose compared with starch and sugar, and it slows the rise from carbohydrate eaten at the same time. Spreading protein across breakfast, afternoon, and dinner also protects muscle while you lose weight, which matters for type 2 diabetes and fatty liver. Sources include eggs, fish, chicken, curd, paneer, tofu, dals, and beans. People with kidney disease need individualized advice before increasing protein a lot.",
+    "category": "nutrition",
+    "subcategory": "protein",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_008",
+    "question": "How much carbohydrate should a person with diabetes eat?",
+    "answer": "There is no single gram target that fits everyone. A practical plate is about half non-starchy vegetables, a quarter protein, and a quarter carbohydrate such as rice, roti, fruit, or potato. Quality matters: whole fruit, beans, dals, and intact grains usually rise more slowly than juice, sweets, and large portions of refined starch. Personal targets belong with your clinician or dietitian, especially if you use insulin.",
+    "category": "nutrition",
+    "subcategory": "carbs",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_009",
+    "question": "Are carbs forbidden if I have diabetes?",
+    "answer": "No. Carbohydrate is not forbidden for most people. The problems are usually liquid sugar, very large portions, and eating starch alone. You can keep cultural staples such as rice or roti in a smaller portion, eaten with vegetables and protein. Very low carbohydrate eating while insulin doses stay the same can cause dangerous lows.",
+    "category": "nutrition",
+    "subcategory": "carbs",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_010",
+    "question": "What is fatty liver and how does it relate to diabetes?",
+    "answer": "Fatty liver, often called MASLD or NAFLD, means extra fat stored in the liver. It commonly travels with insulin resistance, prediabetes, type 2 diabetes, and weight around the belly. Sugary drinks, large refined-carbohydrate meals, alcohol, and gradual weight gain push both liver fat and glucose. Many people improve both with sustained weight loss when weight is high, fewer sugary drinks, earlier dinners, and regular walking. Diagnosis and monitoring use blood tests and imaging, not symptoms alone.",
+    "category": "liver",
+    "subcategory": "fatty_liver",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_011",
+    "question": "What should I eat if I have fatty liver and diabetes?",
+    "answer": "Use the same plate that helps glucose: vegetables, protein, modest portions of whole grains or starchy vegetables, and almost no sugary drinks. Cut fruit juice, soda, and sweetened tea first. Limit alcohol. Finish dinner earlier. A weight loss of about 7 to 10 percent is a common clinical target when body weight is high, but the pace and calorie level should be set with a clinician. Avoid unverified liver detox products.",
+    "category": "liver",
+    "subcategory": "fatty_liver",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_012",
+    "question": "Can type 2 diabetes be reversed with lifestyle?",
+    "answer": "Some people with type 2 diabetes reach remission, meaning glucose stays in a non-diabetic range for a sustained period without glucose-lowering medicine. It is more realistic earlier in the disease and often involves meaningful weight loss when weight is high, more movement, and a food pattern that lowers liver fat. A clinician confirms it with labs. It is not guaranteed, it can relapse if weight returns, and it is not the same as a cure. Never stop insulin or tablets because a website suggested remission.",
+    "category": "habits",
+    "subcategory": "remission",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_013",
+    "question": "Can type 1 diabetes be reversed with diet?",
+    "answer": "No. Type 1 diabetes is not reversed by food, walks, or supplements. Insulin remains essential. Meal patterns can still make glucose easier to manage, but doses are set with the diabetes team. Signs of diabetic ketoacidosis — nausea, vomiting, fast breathing, fruity breath, or confusion with high glucose — need emergency care.",
+    "category": "habits",
+    "subcategory": "safety",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_014",
+    "question": "Does walking after meals help blood sugar?",
+    "answer": "Yes. Muscle uses glucose during easy movement, so a 10 to 15 minute walk soon after breakfast, lunch, or dinner often shrinks the post-meal rise. It also supports fatty liver, blood pressure, and weight goals. Seated marching counts if walking is difficult. Stop and seek care for chest pain, sudden breathlessness, or dizziness. People with foot ulcers need a personalized activity plan.",
+    "category": "movement",
+    "subcategory": "walking",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_015",
+    "question": "Does the order I eat food change my glucose?",
+    "answer": "Often, yes. Eating vegetables and protein before the rice, bread, or dessert in a mixed meal can lower the glucose peak without changing the menu. It does not cancel a very large dessert. Pair the tactic with a short walk if you can, and judge it with your own meter rather than a rule from the internet.",
+    "category": "glucose",
+    "subcategory": "meal_order",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_016",
+    "question": "Is fruit juice okay for diabetes?",
+    "answer": "Fruit juice is one of the fastest ways to raise glucose because the fiber has been removed and the sugar arrives as a liquid. Whole fruit, eaten with a meal or with protein, is the better everyday choice. The same idea applies to soda, sweet lassi, and heavily sweetened chai. Juice can still be used to treat a low, following the plan your clinician gave you.",
+    "category": "nutrition",
+    "subcategory": "drinks",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_017",
+    "question": "What drinks are better for diabetes and fatty liver?",
+    "answer": "Water is the default. Unsweetened tea or coffee, and sparkling water, are reasonable. Sugary drinks, fruit juice, and regular alcohol add glucose load or liver stress. If you drink alcohol, cutting back helps fatty liver. Do not use alcohol to help sleep.",
+    "category": "liver",
+    "subcategory": "drinks",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_018",
+    "question": "Why is my fasting blood sugar high in the morning?",
+    "answer": "The liver releases glucose overnight. Short sleep, stress, a large late dinner, alcohol, and some medicines can all push the morning number up. An earlier, vegetable-and-protein dinner and a consistent sleep window are lifestyle pieces. Dawn phenomenon and medication timing are clinical questions. Bring a log of evening meals and morning readings to your clinician rather than guessing a new dose.",
+    "category": "glucose",
+    "subcategory": "fasting",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_019",
+    "question": "How does sleep affect diabetes?",
+    "answer": "Short or broken sleep raises next-day hunger and can lift fasting glucose. A repeatable sleep window and an earlier dinner are practical starts. Loud snoring with daytime sleepiness can be sleep apnea, which worsens glucose and needs medical assessment. Alcohol is a poor sleep aid and adds liver fat.",
+    "category": "habits",
+    "subcategory": "sleep",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_020",
+    "question": "What is fiber and why does it help blood sugar?",
+    "answer": "Fiber slows how fast carbohydrate becomes blood glucose and helps you stay full. Useful sources are non-starchy vegetables, dals, beans, oats, seeds, and whole fruit rather than juice. Add fiber gradually and drink water. A fiber supplement is a backup, not a replacement for food. Sudden severe abdominal pain with no bowel movement needs medical care.",
+    "category": "nutrition",
+    "subcategory": "fiber",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_021",
+    "question": "Can I eat rice if I have diabetes?",
+    "answer": "Yes, in a portion that fits the rest of the plate. Pair rice with vegetables and a protein such as dal, fish, eggs, or chicken, and consider eating the vegetables and protein first. A fist-size portion is a common starting picture, adjusted to your glucose readings and medicines. Cooling and reheating some starches can slightly change their effect, but portion and what you eat with them matter more.",
+    "category": "nutrition",
+    "subcategory": "carbs",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_022",
+    "question": "What are signs of low blood sugar?",
+    "answer": "A low can feel like sweating, shaking, hunger, a fast heartbeat, irritability, or confusion. If you were given a treatment plan, follow it — often about 15 grams of fast carbohydrate, then a recheck. Do not keep walking it off. Severe confusion or fainting needs emergency help. Frequent lows mean the medicine or meal timing needs a clinician, not a new diet from a website.",
+    "category": "safety",
+    "subcategory": "hypoglycemia",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_023",
+    "question": "When is high blood sugar an emergency?",
+    "answer": "Seek urgent care for vomiting, deep or fast breathing, fruity-smelling breath, confusion, or dehydration together with high glucose. Those can be signs of diabetic ketoacidosis, especially in type 1 diabetes. Chest pain, trouble breathing, a hot spreading foot wound, sudden vision loss, yellow eyes, or vomiting blood are also emergencies. A single moderately high reading after a large meal is usually a pattern to review, not an emergency by itself.",
+    "category": "safety",
+    "subcategory": "red_flags",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_024",
+    "question": "Should I stop my diabetes medicine if I change my diet?",
+    "answer": "No. Do not stop insulin or tablets because meals improved or because you hope for remission. Medication changes happen in clinic, after your clinician sees glucose logs and labs. Lifestyle and medicine work together. Stopping treatment on your own can cause dangerous highs.",
+    "category": "safety",
+    "subcategory": "medicines",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_025",
+    "question": "What is a simple day of eating for diabetes?",
+    "answer": "Morning: water, then a protein-and-vegetable breakfast with a small grain portion if you want it, and a short walk. Afternoon: if hungry, one snack of nuts, roasted chana, curd, or vegetables — not biscuits and sweet tea. Dinner: half a plate of vegetables, protein, a smaller starch, finished a few hours before bed, then a short walk. Keep sugary drinks out on ordinary days. Adjust this if you use medicines that can cause lows.",
+    "category": "meals",
+    "subcategory": "day_plan",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_026",
+    "question": "Do nuts help with blood sugar?",
+    "answer": "A small portion of nuts can slow a meal and bridge the afternoon without a sharp spike, because they provide fat, some protein, and fiber. They are calorie-dense, so a handful is plenty. They do not cancel a sugary drink. People with nut allergies should use seeds, roasted chana, or curd instead.",
+    "category": "nutrition",
+    "subcategory": "fats",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_027",
+    "question": "Is prediabetes reversible?",
+    "answer": "Prediabetes is often more responsive to lifestyle than long-standing diabetes. Weight loss when weight is high, walking most days, fewer sugary drinks, and a plate built on vegetables and protein can move glucose back toward the normal range for many people. Confirm progress with labs. It is still education, not a personal treatment plan.",
+    "category": "habits",
+    "subcategory": "remission",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_028",
+    "question": "How does weight loss help diabetes and fatty liver?",
+    "answer": "When weight is higher than is healthy for you, losing even a moderate amount can lower liver fat and improve insulin sensitivity. A common clinical target discussed for fatty liver is about 7 to 10 percent of body weight, done gradually. Protein and strength work help you lose fat rather than muscle. The method and speed should be safe for your medicines and medical history.",
+    "category": "liver",
+    "subcategory": "weight",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_029",
+    "question": "What snacks are less likely to spike insulin?",
+    "answer": "Snacks built from protein and fiber rise more gently than biscuits, chips, or juice. Examples: roasted chana, a boiled egg, unsweetened curd, a small apple with nuts, cucumber with hummus, or paneer with vegetables. Keep it to one planned portion. If you are not hungry, you do not need a snack.",
+    "category": "meals",
+    "subcategory": "afternoon",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_030",
+    "question": "Is this diabetes assistant a doctor?",
+    "answer": "No. DiabeticVoice AI is an educational lifestyle assistant. It does not diagnose, dose insulin, read labs, or replace a physician, endocrinologist, or dietitian. Use it for meal ideas and explanations of spikes, protein, carbs, and fatty liver. For emergencies and for any change in medicine, use in-person care.",
+    "category": "safety",
+    "subcategory": "scope",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_031",
+    "question": "Can I drink milk or chai with diabetes?",
+    "answer": "Unsweetened milk or curd in a modest amount can fit a meal because of the protein. Chai is fine if the sugar is minimal or absent. Sweetened chai several times a day is a repeated glucose load. If you add milk, count it as part of the meal rather than an extra sweet drink between meals.",
+    "category": "nutrition",
+    "subcategory": "drinks",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_032",
+    "question": "What is the plate method for diabetes?",
+    "answer": "The plate method is a simple visual guide: about half the plate non-starchy vegetables, about a quarter protein, and about a quarter carbohydrate. It works at breakfast, lunch, and dinner and across cuisines. It is a starting picture, not a calculated insulin dose. People with higher activity or on insulin may need a different balance set with their care team.",
+    "category": "meals",
+    "subcategory": "plate",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_033",
+    "question": "Does stress raise blood sugar?",
+    "answer": "Yes. Stress hormones can raise glucose even when food has not changed, and they can drive late-night snacking. A short walk, breathing, and a consistent sleep time are reasonable first steps. Ongoing anxiety, depression, or glucose that stays high despite food changes should be discussed with your clinician. This assistant does not treat mental health conditions.",
+    "category": "habits",
+    "subcategory": "stress",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_034",
+    "question": "Are artificial sweeteners useful?",
+    "answer": "Replacing sugary soda with water is the clearer win. Non-sugar sweeteners can help some people step down from sugary drinks, but they are not a health food and they do not fix a pattern of ultra-processed snacks. Watch your own glucose if a product still contains carbohydrate. They are not a treatment for fatty liver by themselves.",
+    "category": "nutrition",
+    "subcategory": "drinks",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_035",
+    "question": "What strength exercise helps diabetes?",
+    "answer": "Muscle is a glucose sink. Two short strength sessions a week — chair stands, wall push-ups, bands, or weights you can control — support glucose and protect muscle during weight loss. Walking still covers most of the after-meal benefit. Get clearance first if you have chest disease, foot wounds, or recent surgery. Stop for chest pain or sudden breathlessness.",
+    "category": "movement",
+    "subcategory": "strength",
+    "source": "diabetes_kb"
+  },
+  {
+    "id": "dv_036",
+    "question": "What labs show whether lifestyle changes are working?",
+    "answer": "Clinicians often look at A1C, fasting glucose, and sometimes after-meal readings, plus liver enzymes such as ALT and AST when fatty liver is a concern. Waist measurement and how you feel are useful alongside labs. Home meters show day-to-day patterns. This assistant cannot interpret your personal results or tell you that diabetes has reversed.",
+    "category": "habits",
+    "subcategory": "monitoring",
+    "source": "diabetes_kb"
+  }
+]

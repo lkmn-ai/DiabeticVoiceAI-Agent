@@ -1,0 +1,26 @@
+fastapi==0.128.0
+uvicorn[standard]==0.39.0
+pydantic==2.13.4
+pydantic-settings==2.11.0
+python-multipart==0.0.20
+python-dotenv==1.1.1
+
+# Embeddings + Vector DB
+sentence-transformers==5.1.2
+chromadb==1.0.15
+
+# Local LLM
+httpx==0.28.1
+
+# STT
+faster-whisper==1.1.1
+
+# TTS fallback (pyttsx3 - no binary needed)
+pyttsx3==2.99
+
+# Utils
+numpy
+aiofiles==24.1.0
+pytest==8.4.1
+pytest-asyncio==0.24.0
+httpx==0.28.1
