@@ -6,6 +6,10 @@
 
 ![Backend Architecture](backend/images/backend.png)
 
+### Workflow Architecture
+
+![Workflow Architecture](backend/images/workflow.png)
+
 ### Diabetic UI
 
 ![Database UI](backend/images/db-ui.png)
